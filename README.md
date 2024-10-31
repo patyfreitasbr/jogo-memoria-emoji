@@ -8,7 +8,7 @@ Um divertido jogo da memória construído com HTML, CSS e JavaScript, onde o jog
 
 ## 👀 Demonstração
 
-### [Clique para jogar]()
+### [Clique para jogar](https://patyfreitasbr.github.io/jogo-memoria-emoji/)
 
 ![jogo da memoria ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTxs122mWJeoJ9olwMxsopO1nCMwJeIwQ-w4_-4sI-VSgXe5U4xc7GqYPWgSjNBWhrRwzM-RpPFEnNG5LUgWLZZoXJfHYqwieQbbjIMczh33J1OI-O1R0PJehm-A80GPGDgwrLdc3KFE5fJzabzVqRwXSbgqharBBYAMAcnrvRfWO8WS6bH72zFjz-6sCA/w640-h360/jogo-da-memeoria.gif)
 
